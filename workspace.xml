@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b4217b21-740c-4f06-b7a9-d29564ac7a01" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000000887609284" />
+      <entry key="S5" value="1.0015110844437012" />
+      <entry key="S10" value="1.038872669624058" />
+      <entry key="S30" value="1.3387638593601883" />
+      <entry key="S60" value="1.586906242119051" />
+      <entry key="M2" value="1.8854033465973874" />
+      <entry key="M5" value="3.9679637546689475" />
+      <entry key="M10" value="9.863109294145092" />
+      <entry key="M15" value="15.728162634648184" />
+      <entry key="M30" value="29.740023810495714" />
+      <entry key="H1" value="53.604965495014675" />
+      <entry key="H2" value="102.49564180288708" />
+      <entry key="H4" value="183.89997432773959" />
+      <entry key="D1" value="375.5063586397026" />
+      <entry key="W1" value="434.90227184732464" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="6.823389219081908E-174" />
+      <entry key="S5" value="5.41669453204578E-70" />
+      <entry key="S10" value="2.3732444903708283E-35" />
+      <entry key="S30" value="3.97985836159575E-12" />
+      <entry key="S60" value="3.17029628634544E-6" />
+      <entry key="M2" value="0.003015012715845033" />
+      <entry key="M5" value="0.1886488492922536" />
+      <entry key="M10" value="0.7518380035503401" />
+      <entry key="M15" value="1.1984858685379103" />
+      <entry key="M30" value="2.099480974635057" />
+      <entry key="H1" value="3.692477045516945" />
+      <entry key="H2" value="6.424756978914564" />
+      <entry key="H4" value="9.754844715697315" />
+      <entry key="D1" value="15.330002588818546" />
+      <entry key="W1" value="16.746102725863633" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.0016197647379188314" />
+      <entry key="MS500" value="0.27662433827306804" />
+      <entry key="S2" value="0.7252247544771561" />
+      <entry key="S5" value="0.880479807704681" />
+      <entry key="S10" value="0.9705469956445062" />
+      <entry key="S30" value="1.2988629597315091" />
+      <entry key="S60" value="1.5597513963481509" />
+      <entry key="M2" value="1.8695789173376474" />
+      <entry key="M5" value="4.133617640920841" />
+      <entry key="M10" value="10.581572945909189" />
+      <entry key="M15" value="16.889240966625064" />
+      <entry key="M30" value="31.80279009235658" />
+      <entry key="H1" value="57.265093253834664" />
+      <entry key="H2" value="108.8907579907081" />
+      <entry key="H4" value="193.62966378231474" />
+      <entry key="D1" value="390.8285595011457" />
+      <entry key="W1" value="451.64711133100377" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3JOdBRg5LdXGxEXU8fJFIjgEOn3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Docker.docker-compose.yml: Compose Deployment.executor": "Run",
+    "Maven.project_leap_25cc003_arthika_m_s [clean...].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.ProjectLeap25cc003ArthikaMSApplication.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/koush/Downloads/project_leap_25cc003_arthika_m_s/project_leap_25cc003_arthika_m_s",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ProjectLeap25cc003ArthikaMSApplication">
+    <configuration name="ProjectLeap25cc003ArthikaMSApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="project_leap_25cc003_arthika_m_s" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.project_leap_25cc003_arthika_m_s.ProjectLeap25cc003ArthikaMSApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.project_leap_25cc003_arthika_m_s.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml" />
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ProjectLeap25cc003ArthikaMSApplication" />
+        <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10315.125" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10315.125" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4217b21-740c-4f06-b7a9-d29564ac7a01" name="Changes" comment="" />
+      <created>1789535913064</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1789535913064</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
